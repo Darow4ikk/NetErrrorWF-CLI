@@ -1,0 +1,11 @@
+{
+  "language": "en",
+  "text_color": "magenta",
+  "processes": 20,
+  "threads_per_process": 25,
+  "timeout": 2,
+  "batch_size": 50,
+  "output_file": "found_wallets.json",
+  "color_scheme": "light",
+  "start_time": "2026-07-05T00:32:08.439777"
+}
